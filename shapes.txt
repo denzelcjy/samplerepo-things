@@ -3,3 +3,7 @@ oval
 rectangle
 square
 trapezium
+star
+rhombus
+triangle
+octagon
