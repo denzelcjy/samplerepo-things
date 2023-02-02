@@ -6,3 +6,4 @@ trapezium
 star
 rhombus
 triangle
+octagon
